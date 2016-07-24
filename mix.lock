@@ -1,4 +1,5 @@
 %{"base64url": {:hex, :base64url, "0.0.1"},
+  "comeonin": {:hex, :comeonin, "2.5.1"},
   "connection": {:hex, :connection, "1.0.3"},
   "cors_plug": {:hex, :cors_plug, "1.1.2"},
   "cowboy": {:hex, :cowboy, "1.0.4"},
